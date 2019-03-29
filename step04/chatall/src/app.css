@@ -1,0 +1,39 @@
+.chatux-btn-chat {
+    color: #fff;
+    background-color: black;
+    border-color: black;
+}
+.chatux-btn-chat:hover {
+    background-color: black;
+    border-color: black;
+}
+
+.botui-container {
+    font-size: 14px;
+    background-color: #7193c1;
+    font-family: "Open Sans", sans-serif;
+}
+
+.botui-actions-text-input {
+    border: 0;
+    outline: none;
+    border-radius: 0;
+    padding: 5px 7px;
+    font-family: "Open Sans", sans-serif;
+    background-color: transparent;
+    color: white;
+    width: 70%;
+    border-bottom: 2px solid white;
+}
+
+botui-message-content {
+    padding: 7px 13px;
+    border-radius: 15px;
+    color: #111111;
+    background-color: #fff;
+}
+
+.botui-message-content.human {
+    color: #111111;
+    background-color: #59d93c;
+}
