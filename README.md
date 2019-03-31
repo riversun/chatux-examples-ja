@@ -622,7 +622,7 @@ npm install --save-dev @babel/core @babel/preset-env babel-loader
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "chatux": "^1.0.8"
+    "chatux": "^1.0.11"
   },
   "devDependencies": {
     "@babel/core": "^7.4.0",
